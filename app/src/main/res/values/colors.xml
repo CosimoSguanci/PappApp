@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#FDD835</color>
+
+    <color name="colorPrimaryDarkTheme">#607D8B</color>
+    <color name="colorPrimaryDarkofDarkTheme">#37474F</color>
+    <color name="colorAccentDarkTheme">#FF3D00</color>
+    <color name="colorDarkBackground">#B0BEC5</color>
+
+    <color name="colorPrimaryRedTheme">#E53935</color>
+    <color name="colorPrimaryDarkRedTheme">#B71C1C</color>
+    <color name="colorAccentRedTheme">#795548</color>
+    <color name="colorRedBackground">#EF9A9A</color>
+
+    <color name="colorPrimaryGreenTheme">#4CAF50</color>
+    <color name="colorPrimaryDarkGreenTheme">#1B5E20</color>
+    <color name="colorAccentGreenTheme">#512DA8</color>
+    <color name="colorGreenBackground">#B9F6CA</color>
+
+    <color name="colorNameRecipe">#757575</color>
+
+
+
+</resources>

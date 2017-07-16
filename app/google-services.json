@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "546682567762",
+    "firebase_url": "https://pappapp-21759.firebaseio.com",
+    "project_id": "pappapp-21759",
+    "storage_bucket": "pappapp-21759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546682567762:android:8a9e08ed9f132509",
+        "android_client_info": {
+          "package_name": "app.android.com.pappapppaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546682567762-bvb43sj7ab2970iebk15l2ga019bnh6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.android.com.pappapppaid",
+            "certificate_hash": "cf00bad6201ef274e883d5cccd2b59f1df728bff"
+          }
+        },
+        {
+          "client_id": "546682567762-eru7i9r9t0dn91n9ir7qlt2qu9hi4t6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxvKPgtoum6P2SrW4vIq2kQxxuTUMThzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546682567762-eru7i9r9t0dn91n9ir7qlt2qu9hi4t6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

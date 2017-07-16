@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/main"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:checked="true"
+            android:icon="@mipmap/ic_home_outline_black_24dp"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/fav_ingredients"
+            android:icon="@mipmap/ic_carrot_black_24dp"
+            android:title="@string/fav_ingredientes" />
+
+        <item
+            android:id="@+id/fav_recipes"
+            android:icon="@mipmap/ic_pot_black_24dp"
+            android:title="@string/fav_recipes" />
+
+        <item
+            android:id="@+id/intolerance_drawer"
+            android:icon="@mipmap/ic_not_interested_black_24dp"
+            android:title="@string/intolerances"/>
+
+
+    </group>
+
+    <group
+        android:id="@+id/settings"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/settings_drawer"
+            android:icon="@mipmap/ic_settings_black_24dp"
+            android:title="@string/settings" />
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PappApp</string>
+    <string name="home">Home</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="fav_ingredientes">Ingredienti Preferiti</string>
+    <string name="fav_recipes">Ricette Preferite</string>
+    <string name="settings">Impostazioni</string>
+    <string name="breakfast">Colazione</string>
+    <string name="lunch">Pranzo</string>
+    <string name="snack">Spuntino</string>
+    <string name="dinner">Cena</string>
+    <string name="aperitive">Aperitivo</string>
+    <string name="dessert">Dolce</string>
+    <string name="ingredients">Ingrediente...</string>
+    <string name="add">Aggiungi</string>
+    <string name="hungry_grade">Grado di fame</string>
+    <string name="prep_time">Tempo di preparazione</string>
+    <string name="minutes">Minuti</string>
+    <string name="prep_difficulty">Difficoltà di preparazione</string>
+    <string name="very_easy">Molto facile</string>
+    <string name="easy">Facile</string>
+    <string name="intermediate">Intermedio</string>
+    <string name="difficult">Difficile</string>
+    <string name="very_difficult">Molto difficile</string>
+    <string name="no_ingredient">Non hai inserito nessun ingrediente!</string>
+    <string name="set_parameters">Imposta parametri</string>
+    <string-array name="spinnerHungry">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="spinnerDiff">
+        <item>Molto facile</item>
+        <item>Facile</item>
+        <item>Intermedio</item>
+        <item>Difficile</item>
+        <item>Molto difficile</item>
+    </string-array>
+
+    <string name="intolerance_added">Intolleranza aggiunta!</string>
+    <string name="intolerance_not_added">Inserisci una intolleranza!</string>
+    <string name="no_favorite_ingredients">Non ci ingredienti preferiti</string>
+    <string name="no_favorite_recipes">Non ci sono ricette preferite</string>
+    <string name="insert_correctly">Inserisci i dati correttamente!</string>
+    <string name="no_results">Non ci sono risultati</string>
+    <string name="intolerances">Intolleranze alimentari</string>
+    <string name="intolerance_removed">Intolleranza rimossa!</string>
+</resources>

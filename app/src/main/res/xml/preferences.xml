@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<PreferenceCategory
+        android:title="Intolleranze"> -->
+        <!--<EditTextPreference
+            android:key="intoleranceEditTextSettings"
+            android:title="Inserisci un'intolleranza/allergia"
+            android:dialogTitle="L'ingrediente inserito non sarà incluso nelle ricerche"/> -->
+       <!-- <Preference android:layout="@layout/intolerance_settings" />
+
+    </PreferenceCategory>-->
+
+    <!--<PreferenceCategory
+        android:title="Temi">
+        <ListPreference
+            android:key="theme"
+            android:title="Temi"
+            android:dialogTitle="Scegli tema"
+            />
+    </PreferenceCategory>-->
+
+    <!--<PreferenceCategory
+        android:title="Informazioni"
+        >
+
+    </PreferenceCategory>-->
+
+
+</PreferenceScreen>
